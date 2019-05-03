@@ -1,0 +1,9 @@
+﻿  소스.cpp
+c:\users\shmon\documents\visual studio 2017\projects\project11\소스.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project11\소스.cpp(71): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project11\소스.cpp(102): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project11\소스.cpp(122): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Edge.cpp
+  코드를 생성하고 있습니다...
+  Project11.vcxproj -> c:\users\shmon\documents\visual studio 2017\Projects\Project11\Debug\Project11.exe
+  Project11.vcxproj -> c:\users\shmon\documents\visual studio 2017\Projects\Project11\Debug\Project11.pdb (Partial PDB)
