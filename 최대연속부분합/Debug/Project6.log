@@ -1,0 +1,6 @@
+﻿  소스.cpp
+c:\users\shmon\documents\visual studio 2017\projects\project6\소스.cpp(19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project6\소스.cpp(44): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project6\소스.cpp(72): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project6.vcxproj -> c:\users\shmon\documents\visual studio 2017\Projects\Project6\Debug\Project6.exe
+  Project6.vcxproj -> c:\users\shmon\documents\visual studio 2017\Projects\Project6\Debug\Project6.pdb (Partial PDB)
