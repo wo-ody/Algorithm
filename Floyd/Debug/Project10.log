@@ -1,0 +1,17 @@
+﻿  소스.cpp
+c:\users\shmon\documents\visual studio 2017\projects\project10\소스.cpp(47): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project10\소스.cpp(55): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project10\소스.cpp(63): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project10\소스.cpp(67): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project10\소스.cpp(80): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project10\소스.cpp(82): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project10\소스.cpp(91): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project10\소스.cpp(92): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project10\소스.cpp(121): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project10\소스.cpp(132): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project10\소스.cpp(152): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project10\소스.cpp(176): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project10\소스.cpp(180): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project10\소스.cpp(190): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\shmon\documents\visual studio 2017\projects\project10\소스.cpp(197): warning C4715: 'index': 모든 제어 경로에서 값을 반환하지는 않습니다.
+LINK : fatal error LNK1168: C:\Users\shmon\Documents\Visual Studio 2017\Projects\Project10\Debug\Project10.exe을(를) 쓰기용으로 열 수 없습니다.
