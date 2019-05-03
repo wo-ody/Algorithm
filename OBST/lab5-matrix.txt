@@ -1,0 +1,10 @@
+Aon 0.375
+Bsbelle 0.375
+Calph 0.125
+Dally 0.125
+Ella 0.055
+Fila 0.034
+Gorge 0.012
+High 0.234
+Null 0.567
+Zara 0.726
